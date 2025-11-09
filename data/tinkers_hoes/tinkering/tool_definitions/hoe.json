@@ -50,13 +50,29 @@
     "predicate_type": "mantle:tag",
     "tag": "tconstruct:mineable/scythe"
   },
+    {
+    "type": "tconstruct:mining_speed_modifier",
+    "modifier": 0.3,
+    "predicate_type": "mantle:tag",
+    "tag": "minecraft:wool"
+  },
+  {
+    "type": "tconstruct:mining_speed_modifier",
+    "blocks": [
+      "minecraft:vine",
+      "minecraft:glow_lichen"
+    ],
+    "modifier": 0.1,
+    "predicate_type": "mantle:set"
+  },
   {
     "type": "tconstruct:circle_aoe",
     "3D": true,
-    "diameter": 1
+    "diameter": 1.05
   },
   {
     "type": "tconstruct:circle_melee",
-    "diameter": 1.0
+    "diameter": 1.05
   }
 ]}
+
