@@ -1,0 +1,12 @@
+{
+  "icon": "tinkers_hoes:hoe",
+  "after": ["tconstruct:world"],
+  "translation_key": "itemGroup.tinkers_hoes.tinkers_hoes",
+  "items": [
+    "tinkers_hoes:hoe",
+    "tinkers_hoes:slender_blade",
+    "tinkers_hoes:slender_blade_sand_cast",
+    "tinkers_hoes:slender_blade_red_sand_cast",
+    "tinkers_hoes:slender_blade_gold_cast"
+  ]
+}
