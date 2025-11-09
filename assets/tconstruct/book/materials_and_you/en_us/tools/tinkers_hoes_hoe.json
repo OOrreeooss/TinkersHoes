@@ -1,0 +1,13 @@
+{
+  "tool": "tinkers_hoes:hoe",
+  "text": [
+    { "text": "Some people get upset at the lack of a hoe, even though kamas and scythes do the job." },
+    { "text": "Guess you can see for yourself now whether its worth it.", "paragraph": true }
+  ],
+  "properties": [
+    "Tills dirt",
+    "Interact with crops to harvest them",
+    "Effective on plants",
+    "AoE attack capabilities"
+  ]
+}
