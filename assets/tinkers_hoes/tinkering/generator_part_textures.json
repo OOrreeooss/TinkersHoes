@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "parts": [
+    { "path": "tinkers_hoes:item/tool/parts/slender_blade", "stat_type": "tconstruct:head" },
+    { "path": "tinkers_hoes:item/tool/hoe/head",        "stat_type": "tconstruct:head" },
+    { "path": "tinkers_hoes:item/tool/hoe/head_broken", "stat_type": "tconstruct:head" },
+    { "path": "tinkers_hoes:item/tool/hoe/handle",      "stat_type": "tconstruct:handle" }
+}

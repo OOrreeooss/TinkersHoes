@@ -1,0 +1,12 @@
+{
+  "itemGroup.tinkers_hoes.tinkers_hoes": "Tinkers' Hoes",
+
+  "pattern.tinkers_hoes.slender_blade": "Slender Blade",
+  "item.tinkers_hoes.slender_blade": "Slender Blade",
+  "item.tinkers_hoes.slender_blade_sand_cast": "Slender Blade Sand Cast",
+  "item.tinkers_hoes.slender_blade_red_sand_cast": "Slender Blade Red Sand Cast",
+  "item.tinkers_hoes.slender_blade_gold_cast": "Slender Blade Gold Cast",
+
+  "item.tinkers_hoes.hoe": "Hoe",
+  "item.tinkers_hoes.hoe.description": "The Hoe is the most basic of gardening tools. It can till dirt.\nRight Click: Harvest and replant crops"
+}
